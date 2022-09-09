@@ -1,5 +1,5 @@
 - 👋 I’m @Waterdragen
-- You can find me on 📫 reddit: u/waterdragen | depressed modding Youtube: Waterdragen | other: Orbit
+- You can find me on 📫 reddit: u/waterdragen | depressed Youtube: Waterdragen | other: Orbit
 
 <!---
 Waterdragen/Waterdragen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
