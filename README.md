@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p>
-  <div align="center">
+  <div align="left">
+    <a href="https://www.youtube.com/channel/UCef0IyxZFYdUcB5Tmfi7_vg">
     <img src="https://i.imgur.com/ZCd9hut.png">
   </div>
 </p>
