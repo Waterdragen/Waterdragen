@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <div align="center">
-    <img src="https://imgur.com/a/5D83HeM">
+    <img src="https://i.imgur.com/ZCd9hut.png">
   </div>
 </p>
